@@ -1,0 +1,3 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TIBHannover/orkg-lsuc-jn/master)
+
+Supplementary material to Stocker et al. "Towards research infrastructures that curate scientific information: A use case in life sciences" originally submitted to the [13th International Conference on Data Integration in the Life Sciences](https://events.tib.eu/dils2018/) (DILS 2018), November 20-21, Hannover, Germany.
