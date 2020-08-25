@@ -1,0 +1,23 @@
+# Book settings
+title: ""
+author: ""
+copyright: "2020"
+logo: ""
+
+repository:
+  url: https://github.com/TIBHannover/orkg-lsuc-jn
+  path_to_book: book
+  branch: master
+
+launch_buttons:
+  notebook_interface: "jupyterlab"
+  binderhub_url: "https://mybinder.org"
+  thebe: true
+
+html:
+  extra_navbar: ""
+  extra_footer: ""
+
+latex:
+  latex_documents:
+    targetname: book.tex

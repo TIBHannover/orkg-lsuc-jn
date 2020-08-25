@@ -1,0 +1,32 @@
+{
+  "content": {
+    "fig1": {
+      "output_type": "display_data",
+      "metadata": {
+        "scrapbook": {
+          "name": "fig1",
+          "mime_prefix": ""
+        },
+        "filenames": {
+          "image/png": "/home/ms/workspace-orkg/orkg-lsuc-jn/book/_build/jupyter_execute/content_5_0.png"
+        }
+      },
+      "data": {
+        "text/plain": "<Figure size 432x288 with 1 Axes>",
+        "image/png": null
+      }
+    },
+    "pvalue": {
+      "output_type": "display_data",
+      "metadata": {
+        "scrapbook": {
+          "name": "pvalue",
+          "mime_prefix": ""
+        }
+      },
+      "data": {
+        "text/plain": "0.001"
+      }
+    }
+  }
+}
