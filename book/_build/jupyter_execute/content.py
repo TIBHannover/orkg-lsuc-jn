@@ -46,7 +46,7 @@ ax.set_xticklabels(['NF', 'F'])
 ax.tick_params(axis='x', labelsize=14, labelrotation=45)
 ax.tick_params(axis='y', labelsize=14)
 
-glue('fig1', fig)
+glue('fig1', fig, display=False)
 
 ```{glue:figure} fig1
 :figwidth: 800px

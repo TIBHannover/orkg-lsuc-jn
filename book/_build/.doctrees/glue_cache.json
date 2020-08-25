@@ -17,15 +17,15 @@
       "metadata": {
         "scrapbook": {
           "name": "fig1",
-          "mime_prefix": ""
+          "mime_prefix": "application/papermill.record/"
         },
         "filenames": {
           "image/png": "/home/ms/workspace-orkg/orkg-lsuc-jn/book/_build/jupyter_execute/content_5_0.png"
         }
       },
       "data": {
-        "text/plain": "<Figure size 432x288 with 1 Axes>",
-        "image/png": null
+        "application/papermill.record/text/plain": "<Figure size 432x288 with 1 Axes>",
+        "application/papermill.record/image/png": null
       }
     }
   }
