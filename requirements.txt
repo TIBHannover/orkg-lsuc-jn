@@ -1,4 +1,4 @@
-numpy==1.19.1
+numpy==1.22.0
 pandas==1.1.1
 scipy==1.5.2
 rdflib==5.0.0
